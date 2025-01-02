@@ -35,7 +35,7 @@ ng serve 08-routing-recap
 
    - Use the index of the `productTitles` element
 
-   _Hint, you can access ` $index`` in the context of the  `@for` [@for documentation](https://angular.dev/api/core/@for)_
+   _Hint, you can access `$index` in the context of the  `@for` [@for documentation](https://angular.dev/api/core/@for)_
 
 1. In, `details.component.ts`, create a property called `productId` of type `number`.
 
